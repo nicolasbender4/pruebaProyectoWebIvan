@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Tafirol T plus sob x 10",
+    "stock": false,
+    "precio": 38.25
+  },
+  {
+    "id": 2,
+    "descripcion": "Aspirina vent3 ad x 100",
+    "stock": true,
+    "precio": 59.19
+  },
+  {
+    "id": 3,
+    "descripcion": "Aspirina vent3 x niños 100",
+    "stock": false,
+    "precio": 8.57
+  },
+  {
+    "id": 4,
+    "descripcion": "Aspirina vent3 vit c x 16",
+    "stock": true,
+    "precio": 93.47
+  },
+  {
+    "id": 5,
+    "descripcion": "Aciclovir crema x 5 g LIA",
+    "stock": true,
+    "precio": 55.17
+  },
+  {
+    "id": 6,
+    "descripcion": "Babogesic 4% x 100 ml EST",
+    "stock": false,
+    "precio": 61.53
+  },
+  {
+    "id": 7,
+    "descripcion": "Nistatina susp. x 60 ml denver farma",
+    "stock": true,
+    "precio": 72.91
+  },
+  {
+    "id": 8,
+    "descripcion": "Becebuen gotas x 20 ml",
+    "stock": true,
+    "precio": 87.72
+  },
+  {
+    "id": 9,
+    "descripcion": "Aspirinetas x 98 comp",
+    "stock": true,
+    "precio": 65.57
+  },
+  {
+    "id": 10,
+    "descripcion": "Gripequin tos ped x 120 ml",
+    "stock": false,
+    "precio": 55.32
+  },
+  {
+    "id": 11,
+    "descripcion": "Apracur expectorante x 100 ml",
+    "stock": false,
+    "precio": 40.35
+  },
+  {
+    "id": 12,
+    "descripcion": "Cotrimoxazol balsamico jbe x 100 ml estuchado duncan otrimoxazol balsamico jbe x 100 ml estuchado duncan",
+    "stock": true,
+    "precio": 68.37
+  },
+  {
+    "id": 13,
+    "descripcion": "Hioscina amp x 1 ml Larjan",
+    "stock": true,
+    "precio": 49.18
+  },
+  {
+    "id": 14,
+    "descripcion": "Loratadina 10 mg cm x 10 Savant Dexitis",
+    "stock": false,
+    "precio": 88.12
+  },
+  {
+    "id": 15,
+    "descripcion": "Carvedilol 25 mg x 28 comp Nexo",
+    "stock": false,
+    "precio": 17.91
+  },
+  {
+    "id": 16,
+    "descripcion": "Ampicilina 1000 mg cm 8 richet",
+    "stock": true,
+    "precio": 12.7
+  },
+  {
+    "id": 17,
+    "descripcion": "Muelita Gel Forte x 10 gr",
+    "stock": false,
+    "precio": 91.88
+  },
+  {
+    "id": 18,
+    "descripcion": "Vacuna antitetanica Biol  c/jeringa",
+    "stock": false,
+    "precio": 77.75
+  },
+  {
+    "id": 19,
+    "descripcion": "Atorvastatin 20 mg comp x 10 Klonal",
+    "stock": false,
+    "precio": 30.13
+  },
+  {
+    "id": 20,
+    "descripcion": "Corixa 250 comp. X 16",
+    "stock": false,
+    "precio": 14.38
+  },
+  {
+    "id": 21,
+    "descripcion": "Callicida cabuchi solución x 8 g",
+    "stock": false,
+    "precio": 34.58
+  },
+  {
+    "id": 22,
+    "descripcion": "Curinflam plus comp x 15",
+    "stock": true,
+    "precio": 41.14
+  },
+  {
+    "id": 23,
+    "descripcion": "Penicilina Benz 2,4 M fco amp Fabra",
+    "stock": true,
+    "precio": 13.4
+  },
+  {
+    "id": 24,
+    "descripcion": "Femexin cm 21",
+    "stock": false,
+    "precio": 67.97
+  },
+  {
+    "id": 25,
+    "descripcion": "Mejoral niños cm x 20",
+    "stock": false,
+    "precio": 83.68
+  },
+  {
+    "id": 26,
+    "descripcion": "Mejoral P/ niños exhibidor x  30 blis",
+    "stock": false,
+    "precio": 17.41
+  },
+  {
+    "id": 27,
+    "descripcion": "Metformina 850 mg cm x 10 LIA",
+    "stock": true,
+    "precio": 79.42
+  },
+  {
+    "id": 28,
+    "descripcion": "Bolsa p/sangre simple x 450 ml Grifols",
+    "stock": false,
+    "precio": 44.98
+  },
+  {
+    "id": 29,
+    "descripcion": "Bolsa p/sangre doble Grifols",
+    "stock": true,
+    "precio": 66.27
+  },
+  {
+    "id": 30,
+    "descripcion": "Atenolol 100 mg TRB x 10 cm",
+    "stock": true,
+    "precio": 44.16
+  }
+]
